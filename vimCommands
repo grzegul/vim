@@ -1,0 +1,27 @@
+A - start inserting at the end of current line
+a - start inserting at the next character field
+diw - delete inner word
+dd - delete whole line
+yy - yank whole line
+
+S - delete line, leave empty + i
+ce<word> - replace selected word with <word> + i
+
+ma - set marker 'a'
+'a - go to line containing maker 'a'
+`a - go exactly to marker 'a'
+
+{d} - delete paragraph
+
+:map <new key> <function>
+:map <space> viw - space will highlight a word
+:map <c-d> dd - Ctrl+d will do 'dd'
+
+- - move whole text down
+_ - move whole text up
+
+:ls - list all open files
+:b - jump to an open file
+
+Ctrl+u - half Page Up
+Ctrl+d - half Page Dn
