@@ -25,5 +25,10 @@ _ - move whole text up
 
 Ctrl+u - half Page Up
 Ctrl+d - half Page Dn
+Ctrl+n - autofill
+Ctrl+p - autofill previous item
+Ctrl+x + Ctrl+n - autofill within file
+Ctrl+x + Ctrl+f - autofill filenames only 
+
 
 http://www.bitflop.dk/tutorials/keeping-your-home-in-git.html
